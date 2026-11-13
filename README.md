@@ -1,5 +1,5 @@
 ## Bom dia, boa tarde, boa noite!
-Aqui é o seu programador favorito, Matheus.
+Aqui é o seu programador quase preferido, Matheus.
 
 Brincadeiras a parte, sou estudante de ADS na Fatec Ourinhos e estou construindo minha jornada na programação.
 
