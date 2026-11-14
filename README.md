@@ -1,4 +1,4 @@
-![Logo do projeto](hornet_cutout_5.png)
+![Logo do projeto](hornet_cutout_6.png)
 
 ## Bom dia, boa tarde, boa noite!
 Aqui é o seu programador quase preferido, Matheus.
